@@ -1,4 +1,4 @@
-Clínica Veterinária
+CLÍNICA VETERINÁRIA 
 
 Sobre o trabalho
 
@@ -35,6 +35,6 @@ Ferramentas
 • MySQL Workbench
 • GitHub
 
-Autor
+AUTOR
 
 Gustavo Ferreira do Amaral
