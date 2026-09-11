@@ -24,11 +24,11 @@ Relacionamentos
 
 Arquivos
 
-• DER_Clinica_Veterinaria.png — Diagrama Entidade-Relacionamento.
-• Esquema_Relacional.md — Esquema Relacional.
-• Dicionario_de_Dados.md — Dicionário de Dados.
-• Script_Clinica_Vet.sql — Script SQL do banco.
-• README.md — Documentação do trabalho.
+ Arquivos do Repositório
+ 1_modelo_conceitual.pdf: Diagrama Entidade-Relacionamento do modelo conceitual (Fase 1).
+ 3_dicionario_dados.pdf: Documentação contendo o Esquema Relacional e o Dicionário de Dados Simplificado (Fase 2).
+ 4_script_fisico.sql: Script DDL com os comandos SQL para criação das tabelas e chaves no MySQL Workbench (Fase 3).
+ clinica_vet.mwb: Arquivo do modelo lógico e físico no MySQL Workbench.
 
 Ferramentas
 
