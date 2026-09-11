@@ -1,4 +1,4 @@
-# 🐾 Modelagem de Banco de Dados — Clínica Veterinária
+# Modelagem de Banco de Dados — Clínica Veterinária
 
 ---
 
